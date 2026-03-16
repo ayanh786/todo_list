@@ -1,5 +1,11 @@
 # To-Do List Application (UI)
 
+## Group 3 Members
+
+* 22K-4376 Khubaib Ahmed Jamil
+* 22K-4367 Ayan Hasan
+* 22K-4482 Muhammad Ahmed
+
 This repository contains the **UI design of a To-Do List mobile application** developed using Flutter.
 The project focuses on implementing the user interface components and layout for task management.
 
@@ -26,9 +32,3 @@ This version of the project demonstrates only the **front-end UI**, without back
 ### Home Screen
 
 ![To-Do List](images/todo_list.png)
-
-## Group 3 Members
-
-* 22K-4376 Khubaib Ahmed Jamil
-* 22K-4367 Ayan Hasan
-* 22K-4482 Muhammad Ahmed
