@@ -1,16 +1,35 @@
-# todo_list
+# To-Do List Application (UI)
 
-A new Flutter project.
+This repository contains the **UI design of a To-Do List mobile application** developed using Flutter.
+The project focuses on implementing the user interface components and layout for task management.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+The To-Do List application provides a simple and clean interface for managing daily tasks.
+This version of the project demonstrates only the **front-end UI**, without backend functionality or persistent storage.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Add Task UI
+* Task List Layout
+* Task Item Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+* Flutter
+* Dart
+* Visual Studio Code
+* Git
+
+## Screenshots
+
+### Home Screen
+
+![To-Do List](images/todo_list.png)
+
+## Group Members
+
+Group 3
+22K-4376 Khubaib Ahmed Jamil
+22K-4367 Ayan Hasan
+22K-4482 Muhammad Ahmed
