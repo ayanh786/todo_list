@@ -27,9 +27,8 @@ This version of the project demonstrates only the **front-end UI**, without back
 
 ![To-Do List](images/todo_list.png)
 
-## Group Members
+## Group 3 Members
 
-Group 3
-22K-4376 Khubaib Ahmed Jamil
-22K-4367 Ayan Hasan
-22K-4482 Muhammad Ahmed
+* 22K-4376 Khubaib Ahmed Jamil
+* 22K-4367 Ayan Hasan
+* 22K-4482 Muhammad Ahmed
